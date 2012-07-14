@@ -1,6 +1,6 @@
 # Google Search Direct
 
-![GSD Icon](http://raw.github.com/nicholasjarnold/gsd-chrome/master/logo.png)
+![GSD Icon](https://github.com/nicholasjarnold/gsd-chrome/raw/master/logo.png)
 
 ## Overview
 
