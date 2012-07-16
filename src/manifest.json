@@ -1,6 +1,6 @@
 {
     "name": "Google Search Direct",
-    "version": "0.1.0",
+    "version": "1.0",
     "manifest_version": 2,
     "description": "Removes the redirect from Google Search results pages, allowing direct navigation to search result links.",
     "icons": {

@@ -11,5 +11,4 @@ servers before being redirected to the result that you clicked.
 
 ##ToDo
 
-* fix redirect on numbered results pages
- * only works on first page of results  
+* Nothing right now. Let me know if something is broken for you.
